@@ -1,4 +1,6 @@
 # Java-Project-1-Final-FiCT-2018
+ITCS208_Object Oriented Programming
+
 Project 1: Final FiCT (reads Final Fi-See-Tee)  
 This is an individual project.
 
