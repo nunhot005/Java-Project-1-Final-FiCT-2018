@@ -1,6 +1,6 @@
 # Java-Project-1-Final-FiCT-2018
-Project 1: Final FiCT (reads Final Fi-See-Tee)
-This is a individual project.
+Project 1: Final FiCT (reads Final Fi-See-Tee)  
+This is an individual project.
 
 ## Learning Objectives
 On the course of implementing this programming project, you will learn some of the basic concepts of
